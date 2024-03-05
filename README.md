@@ -1,30 +1,30 @@
 
-##Job Portal Backend README
-###Overview
+## Job Portal Backend README
+### Overview
 Welcome to the Job Portal Backend! This Go-based backend is crafted to empower a modern and efficient job portal application. It offers a robust and scalable foundation for managing job listings, user profiles, and the overall functionality of a dynamic job-seeking platform.
 
-##Features
-###Job Listings: Create, update, and effortlessly manage job listings.
+## Features
+### Job Listings: Create, update, and effortlessly manage job listings.
 
-###User Management: Efficiently administer user profiles, catering to both job seekers and employers.
+### User Management: Efficiently administer user profiles, catering to both job seekers and employers.
 
-###Authentication: Ensure secure endpoints by implementing JWT-based authentication for enhanced security.
+### Authentication: Ensure secure endpoints by implementing JWT-based authentication for enhanced security.
 
-###Search and Filters: Empower users with the ability to search for jobs based on diverse criteria and apply filters.
+### Search and Filters: Empower users with the ability to search for jobs based on diverse criteria and apply filters.
 
-###Notifications: Implement real-time notifications for job applications, updates, and other crucial events.
+### Notifications: Implement real-time notifications for job applications, updates, and other crucial events.
 
-###Scalability: Carefully designed with scalability in mind, ensuring the system seamlessly handles a growing number of users and job listings.
+### Scalability: Carefully designed with scalability in mind, ensuring the system seamlessly handles a growing number of users and job listings.
 
-##Getting Started
+## Getting Started
 Follow these steps to set up the Job Portal Backend on your local machine:
 
-##Prerequisites
+## Prerequisites
 Install Go: https://golang.org/doc/install
 
-###Set up a database (e.g., PostgreSQL) and configure the connection in the config directory.
+### Set up a database (e.g., PostgreSQL) and configure the connection in the config directory.
 
-Installation
+### Installation
 Clone the repository:
 
 bash
@@ -50,7 +50,7 @@ The backend should now be running on http://localhost:8080. Customize the port a
 
 
 
-Contact
+### Contact
 For any inquiries or issues, please contact 22it3001@rgipt.ac.in.
 
 Thank you for choosing the Job Portal Backend!
