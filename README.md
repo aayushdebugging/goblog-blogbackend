@@ -25,7 +25,7 @@ Install Go: [https://golang.org/doc/install](https://golang.org/doc/install)
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/blog-backend.git
+git clone https://github.com/aayushdebugging/blog-backend.git
 ```
 
 Navigate to the project directory:
